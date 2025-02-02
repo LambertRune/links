@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2025-02-02 07:02:27
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes time-taken
+2025-02-02 07:02:26 GET / - - 87.236.176.48 HTTP/1.1 Mozilla/5.0+(compatible;+InternetMeasurement/1.0;++https://internet-measurement.com/) - 403 1435 361
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2025-02-02 09:51:09
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes time-taken
+2025-02-02 09:51:08 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 352
+2025-02-02 09:51:10 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 81
+2025-02-02 09:51:11 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 81
+2025-02-02 09:51:12 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 80
+2025-02-02 09:51:18 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 80
+2025-02-02 09:51:20 HEAD / - - 140.82.115.157 HTTP/2 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 0 204
+2025-02-02 09:51:20 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 81
+2025-02-02 09:51:20 HEAD / - - 140.82.115.157 HTTP/2 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 0 203
+2025-02-02 09:51:20 HEAD / - - 140.82.115.157 HTTP/1.1 Mozilla/5.0+(compatible;+GitHub+Pages+Health+Check/1.18.5;++https://github.com/github/pages-health-check) - 403 161 80
+2025-02-02 09:51:27 GET / - - 178.51.125.54 HTTP/2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/132.0.0.0+Safari/537.36 - 403 1233 83
+2025-02-02 09:51:27 GET /favicon.ico - - 178.51.125.54 HTTP/2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/132.0.0.0+Safari/537.36 https://phiosk.be/ 404 1245 68
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2025-02-02 11:12:40
+#Fields: date time cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes time-taken
+2025-02-02 11:12:39 GET / - - 178.51.125.54 HTTP/2 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/132.0.0.0+Safari/537.36 - 403 1233 328
